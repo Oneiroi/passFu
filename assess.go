@@ -1,0 +1,1 @@
+//inpect passed string for quality, return short guidance on imrpovement needed (if any)
